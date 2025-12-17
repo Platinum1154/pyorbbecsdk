@@ -1,7 +1,7 @@
 [project]
 name = "pyorbbecsdk"
 version = "1.3.4"
-description = "从 pyorbbecsdk 官方的修复 "
+description = "从 pyorbbecsdk 官方的修复"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
